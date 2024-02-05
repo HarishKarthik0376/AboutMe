@@ -1,6 +1,4 @@
-# Greetings, I'm Harish Karthik C, currently pursuing a third-year degree in 
-# Computer Science and Engineering with a specialization in Information 
-# Technology at SRM IST.
+# Greetings, I'm Harish Karthik C, currently pursuing a third-year degree in Computer Science and Engineering with a specialization in Information Technology at SRM IST.
 🌟🌐An enthusiastic fresher, a third year undergraduate in Computer Science and Engineering at SRM IST.Experienced in creating and improving user-friendly websites and creating impactful mobile apps with the latest technologies. Explore my repositories, and let's connect to build something awesome together! 💻🚀
 ## 📫 Contact Me
 - Email: @karthikisawesome7@gmail.com
