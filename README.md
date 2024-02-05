@@ -28,5 +28,7 @@
 ![HarishKarthik0376's Stats](https://github-readme-stats.vercel.app/api?username=HarishKarthik0376&theme=dark&show_icons=true&hide_border=true&count_private=true)
 ![HarishKarthik0376's Streak](https://github-readme-streak-stats.herokuapp.com/?user=HarishKarthik0376&theme=dark&hide_border=true)
 ![HarishKarthik0376's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HarishKarthik0376&theme=dark&show_icons=true&hide_border=true&layout=compact)
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=HarishKarthik0376&theme=dracula&no-frame=true&no-bg=true&margin-w=4)
 
 [![](https://visitcount.itsvg.in/api?id=HarishKarthik0376&label=Profile%20Views&color=12&icon=0&pretty=true)](https://visitcount.itsvg.in)
