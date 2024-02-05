@@ -1,4 +1,4 @@
-![technology-785742_1280](https://github.com/gr2100/PROFILE/assets/103631083/f390ee93-6738-47a3-a201-93c233c81ef7)
+![Header](./github-header-image.png)
 # Greetings, I'm Harish Karthik C
 🌟🌐An enthusiastic fresher, a third year undergraduate in Computer Science and Engineering at SRM IST.Experienced in creating and improving user-friendly websites and creating impactful mobile apps with the latest technologies. Explore my repositories, and let's connect to build something awesome together! 💻🚀
 ## 📫 Contact Me
