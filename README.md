@@ -28,4 +28,4 @@
 ![HarishKarthik0376's Streak](https://github-readme-streak-stats.herokuapp.com/?user=HarishKarthik0376&theme=dark&hide_border=true)
 ![HarishKarthik0376's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HarishKarthik0376&theme=dark&show_icons=true&hide_border=true&layout=compact)
 
-![](https://komarev.com/ghpvc/?username=HarishKarthik0376)
+![](https://komarev.com/ghpvc/?username=HarishKarthik0376&color=green)
