@@ -21,7 +21,7 @@
 ![GIT](https://img.shields.io/badge/Git-fc6d26?style=for-the-badge&logo=git&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
-![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black))
+![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black)
 ## 📊 Github stats
 ![HarishKarthik0376's Stats](https://github-readme-stats.vercel.app/api?username=HarishKarthik0376&theme=dark&show_icons=true&hide_border=true&count_private=true)
 ![HarishKarthik0376's Streak](https://github-readme-streak-stats.herokuapp.com/?user=HarishKarthik0376&theme=dark&hide_border=true)
